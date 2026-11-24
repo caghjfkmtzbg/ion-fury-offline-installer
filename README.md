@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+3D Realms, creators of Duke Nukem 3D, Prey, and Max Payne, team up with Voidpoint to bring back the legendary Build Engine, famous for classic shooters like Duke Nukem 3D, Shadow Warrior, and Blood. Fast-paced FPS combat across huge, secret-packed levels. Ion Fury is the real deal!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Any 64-bit Intel or AMD CPU / Rec: Intel Core i5, AMD Ryzen or equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 1024 MB RAM / Rec: 2048 MB RAM | 1024 MB RAM |
+| **Graphics** | Min: 512 MB video memory. Intel integrated graphics supporte… / Rec: 1024 MB or more dedicated video memory. NVIDIA or AMD p… | Metal-capable GPU |
+| **Storage** | 100 MB available space | 100 MB available space |
+| **OS *** | Windows 7/8/8.1/10/11 | Windows 7/8/8.1/10/11 |
 
 ---
 
